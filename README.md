@@ -9,7 +9,7 @@ Learning html, css, floats, positioning, box model, and markdown
 # Link to deployed site
 <!-- make a link to the deployed site --> 
 <!-- [What the user will see](the link to the deployed site) -->
-[Wireframe Template](www.url.com)
+[Wireframe Template](https://skeeis.github.io/HW-Wireframe/)
 
 
 # Images
@@ -43,12 +43,9 @@ Learning html, css, floats, positioning, box model, and markdown
 
 # Learning points
 <!-- Learning points where you would write what you thought was helpful -->
-Throughout the process of builing the WireFrame website I learned the importance of keeping HTML & CSS code simple because simple can be more 
-
+Throughout the process of builing the WireFrame website I learned 
 
 # Author 
 <!-- make a link to the deployed site and have your name as the link -->
 Taylor Skeels
 
-# License
-Standard MIT License

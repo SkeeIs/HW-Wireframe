@@ -8,7 +8,7 @@ Learning html, css, floats, positioning, box model, and markdown
 
 
 # Images
-![Wireframe](https://imgur.com/a/8S05NSi)
+![Wireframe](https://i.imgur.com/agjLrvG.png)
 
 # technology used
 
